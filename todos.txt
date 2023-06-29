@@ -1,0 +1,4 @@
+Clean the table
+Empty the table
+new to do
+last to do
